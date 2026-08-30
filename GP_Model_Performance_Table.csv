@@ -1,0 +1,6 @@
+Metric,Value,Explanation
+Objective (Total Deviation),0.0,Sum of weighted deviations in the GP objective function.
+Runtime (sec),114.363,Total wall-clock time required to solve the model.
+Nodes Explored,1.0,Number of nodes explored in the branch-and-bound tree.
+Iterations (Simplex),195572.0,Total simplex iterations used for LP relaxations.
+Model Status,2.0,Final model solve status (2 = OPTIMAL).
